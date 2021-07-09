@@ -1,2 +1,2 @@
 # JagJeans.com
-Jag Jeans was the clothing & apparel brand that I enhanced for both their print and digital promotions as well as overall online presence.
+JagJeans.com is the Clothing & Apparel e-commerce site that I redesigned and skinned using a fresh new palette of colours and added responsive scaling for all devices.  At the time we were using Magento as our ecommerce engince and framework. 
